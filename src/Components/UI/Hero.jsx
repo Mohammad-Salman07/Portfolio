@@ -226,13 +226,13 @@ const Hero = () => {
               </a>
 
               {/* Download CV Button */}
-              {/* <a
-                href="https://Mohammad-Salman07.github.io/Portfolio/resume/Mohammad-Salman.pdf"
+              <a
+                href="Mohammad-Salman.pdf"
                 download
                 className="text-gray-700 font-semibold text-base border-b-2 border-orange-600 hover:text-orange-600 transition flex items-center"
               >
                 <i className="ri-download-line mr-1"></i> Download CV
-              </a> */}
+              </a> 
             </div>
 
             {/* Description */}
